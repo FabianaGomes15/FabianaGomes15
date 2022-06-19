@@ -38,3 +38,5 @@
 [ Stanislav ]: https://fabianagomes15.github.io/portfolio/
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
+
+![ Pac mam animation ](https://github.com/fabianagomes15/fabianagomes15/blob/output/github-contribution-grid-pacmam.svg)
