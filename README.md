@@ -1,5 +1,5 @@
 👋 Hi, I’m @FabianaGomes15
-- Programadora e desenvolvedora
+- Programadora e desenvolvedora Back End
 - 🌱 I’m currently learning robotics end Typescript
 
 <div align="center">
@@ -36,6 +36,5 @@
 
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
 
-[ Stanislav ]: https://fabianagomes15.github.io/portfolio/
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
