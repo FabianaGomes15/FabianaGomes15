@@ -25,11 +25,10 @@
 
 
 <div>
-
-<a href="https://instagram.com/fabianagomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fabianagomes244" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href = "mailto:fabianasousagomes932@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 <a href="https://www.linkedin.com/in/fabiana-s-b33849204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+</div>
 <a><h2>🏆 Troféu Perfil do Github</h2></a>
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
@@ -40,4 +39,3 @@
 [ Stanislav ]: https://fabianagomes15.github.io/portfolio/
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
-</div>
