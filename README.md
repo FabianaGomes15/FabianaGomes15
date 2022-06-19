@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/fabianagomes15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianagomes15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-[ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -35,7 +34,6 @@
 </a>
 
 ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
-
 
 [ Stanislav ]: https://fabianagomes15.github.io/portfolio/
 
