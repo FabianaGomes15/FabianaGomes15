@@ -1,7 +1,6 @@
 👋 Hi, I’m @FabianaGomes15
 - Programadora e desenvolvedora
 - 🌱 I’m currently learning robotics end Typescript
-- 📫 How to reach me fabianasousagomes932@gmail.com 
 
 <div align="center">
   <a href="https://github.com/fabianagomes15">
@@ -19,12 +18,17 @@
 
 </div>
 
- ##
+
+
+### Redes Sociais
+
+
 
 <div>
-  <img src="https://img.icons8.com/fluency/48/undefined/instagram-new.png"/ link="https://instagram.com/fabianagomes244"
 
-
+<a href="https://instagram.com/fabianagomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:fabianasousagomes932@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+<a href="https://www.linkedin.com/in/fabiana-s-b33849204" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <a><h2>🏆 Troféu Perfil do Github</h2></a>
 <a>
@@ -36,5 +40,4 @@
 [ Stanislav ]: https://fabianagomes15.github.io/portfolio/
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
-
-![ Pac mam animation ](https://github.com/fabianagomes15/fabianagomes15/blob/output/github-contribution-grid-pacmam.svg)
+</div>
