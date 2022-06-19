@@ -1,6 +1,6 @@
 👋 Hi, I’m @FabianaGomes15
 - Programadora e desenvolvedora
-- 🌱 I’m currently learning robotics 
+- 🌱 I’m currently learning robotics end Typescript
 - 📫 How to reach me fabianasousagomes932@gmail.com 
 
 <div align="center">
