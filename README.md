@@ -8,6 +8,8 @@
   <a href="https://github.com/fabianagomes15">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabianagomes15&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabiana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -34,8 +36,5 @@
 <a>
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=8&theme=gruvbox&no-frame=true"/>
 </a>
-
-![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=BravoNatalie&langs_count=6&hide=TeXt&hide_border=true&layout=compact&theme=radical)
-
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
