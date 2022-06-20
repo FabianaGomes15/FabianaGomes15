@@ -1,6 +1,8 @@
-👋 Hi, I’m @FabianaGomes15
-- Programadora e desenvolvedora Back End
-- 🌱 I’m currently learning robotics end Typescript
+<a><h2>Hi, I’m @FabianaGomes15
+
+-👩‍💻 Programadora e desenvolvedora Back End
+
+-🕹I’m currently learning robotics end Typescript🎮</h2></a>
 
 <div align="center">
   <a href="https://github.com/fabianagomes15">
@@ -19,7 +21,7 @@
 
 
 
-### Redes Sociais
+# 🌐 Redes Sociais
 
 
 
