@@ -38,3 +38,4 @@
 </a>
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
+[ gif da cobra ]:
