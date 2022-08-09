@@ -1,6 +1,7 @@
 <a><h2>Hi, I’m @FabianaGomes15
 
 -👩‍💻 Programadora e desenvolvedora Back End
+-👩‍💻 indo ao caminho de Full Stack
 
 -🕹I’m currently learning robotics e Typescript🎮</h2></a>
 
