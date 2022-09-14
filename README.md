@@ -28,6 +28,7 @@
  <tr> <th>ingles:</th> <td>intermediário</td> </tr> 
  <tr> <th>espanhol:</th> <td>intermediário</td> </tr> 
  <tr> <th>frances:</th> <td>básico</td> </tr> 
+ <tr> <th>russo:</th> <td>básico</td> </tr>
  
  </table>
 
