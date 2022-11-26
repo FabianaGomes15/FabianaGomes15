@@ -1,4 +1,4 @@
-<a><h2>Hi, I’m @FabianaGomes15
+<a><h1>Hi, I’m @FabianaGomes15
 
 -👩‍💻 Programadora e desenvolvedora Back End
 
@@ -6,7 +6,7 @@
 
 -🕹I’m currently learning robotics e Typescript🎮
   
-  </h2></a>
+  </h1></a>
 
 <div align="center">
   <a href="https://github.com/fabianagomes15">
@@ -14,7 +14,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fabiana-Java" height="30" width"40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Fabiana-ruby" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />      
+  <img align="center" alt="Fabiana-ruby" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" /> 
   <img align="center" alt="Fabiana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Fabiana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fabiana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -25,7 +25,7 @@
 
 </div>
 
-# Idiomas
+# ✈️ Idiomas
 
  <table border="1"> 
  <tr> <th>ingles:</th> <td>intermediário</td> </tr> 
@@ -34,6 +34,13 @@
  <tr> <th>russo:</th> <td>básico</td> </tr>
  
  </table>
+    
+    
+ # Sobre mim
+    
+    Olá, meu nome é Fabiana, tenho 17 anos e venho me preparando para exercer os cargos que mais dominarão no futuro como: blockchains, programação, segurança de TI e a realidade virtual. Desde os meus 9 anos que sou apaixonada por programação, robótica e jogos e desde então me especialiso cada vez mais para o mundo da tecnologia que tanto admiro.
+    
+    
 
 # 🌐 Redes Sociais
 
