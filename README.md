@@ -4,7 +4,9 @@
 
 -👩‍💻 indo ao caminho de Full Stack
 
--🕹I’m currently learning robotics e Typescript🎮</h2></a>
+-🕹I’m currently learning robotics e Typescript🎮
+  
+  </h2></a>
 
 <div align="center">
   <a href="https://github.com/fabianagomes15">
