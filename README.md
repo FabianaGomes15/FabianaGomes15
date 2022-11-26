@@ -40,7 +40,7 @@
  # Sobre mim
    <head>
      <body> 
-Olá, meu nome é Fabiana, tenho 17 anos e venho me preparando para exercer os cargos que mais dominarão no futuro como: blockchains, programação, segurança de TI e a realidade virtual. Desde os meus 9 anos que sou apaixonada por programação, robótica e jogos e desde então me especialiso cada vez mais para o mundo da tecnologia que tanto admiro.
+Olá, meu nome é Fabiana, tenho 17 anos e venho me preparando para exercer os cargos que mais dominarão no futuro como: blockchains, programação, segurança de TI e a realidade virtual. Desde os meus 9 anos que sou apaixonada por programação, robótica e jogos e desde então me especializo cada vez mais para o mundo da tecnologia que tanto admiro.
     
 ![Screenshot_20211224-183945_WhatsApp](https://user-images.githubusercontent.com/107725808/204110636-d83c4b5d-d3b6-4cb8-8f01-cf937c10efb6.jpg)
      </body>
