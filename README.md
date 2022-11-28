@@ -67,3 +67,4 @@ Olá, meu nome é Fabiana, tenho 17 anos e venho me preparando para exercer os c
 </a>
 
 [ currículo ]: https://github.com/fabianagomes15/portfolio/blob/main/images/portfolio/Stanislav%20Kohut.pdf
+                                                                                                                     
